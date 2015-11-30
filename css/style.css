@@ -308,14 +308,14 @@ body{
 	text-align:center;
 }
 .recent-works-head h3{
-	color:#FFF;
+	color:#47B05F;
 	font-size:4.5em;
 	/*font-family: 'trump_town_proregular';*/
 	font-family: 微軟正黑體,文鼎黑體,華康黑體,Arial;
 	text-transform:uppercase;
 }
 .recent-works-head p{
-	color: #EEE;
+	color: #47B05F;
 	line-height: 1.5em;
 	width: 50%;
 	margin: 0 auto;
@@ -442,14 +442,14 @@ body{
 	text-align:center;
 }
 .team-head h3{
-	color: #FFF;
+	color: #EC9D00;
 	font-size: 4.5em;
 	/*font-family: 'trump_town_proregular';*/
 	font-family: 微軟正黑體,文鼎黑體,華康黑體,Arial;
 	text-transform: uppercase;
 }
 .team-head p{
-	color: #EEE;
+	color: #EC9D00;
 	line-height: 1.5em;
 	width: 50%;
 	margin: 0 auto;
