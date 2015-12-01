@@ -108,7 +108,7 @@
 	height: 32px;
 	margin: 3px;
 	cursor: pointer;
-	background: url(../images/slider-pagenate.png) no-repeat -49px 2px;
+	/*background: url(../images/slider-pagenate.png) no-repeat -49px 2px;*/
    }
     .da-dots span.da-dots-current:after {
       content: '';
@@ -118,7 +118,7 @@
       top:0px;
       left:0px;
       /* non-css3 */
-      background: url(../images/slider-pagenate.png) no-repeat 0px 2px;
+      /*background: url(../images/slider-pagenate.png) no-repeat 0px 2px;*/
       /* for ie */
       *zoom: 1;
       /* css3 */

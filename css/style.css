@@ -54,7 +54,7 @@ body{
 .logo a{
 	font-family: 'trump_town_proregular';
 	color: #3A494C;
-	font-size: 2.6em;
+	font-size: 2.5em;
 	text-transform: uppercase;
 }
 .top-header {
@@ -588,27 +588,27 @@ body{
 }
 /*---start-contact----*/
 .contact{
-	background:#3C3C3C;
+	background:#FFFFFF;
 	padding:4em 0;
 }
 .contact-head{
 	text-align:center;
 }
 .contact-head h3{
-	color: #D3D0D0;
+	color: #5F5F5F;
 	font-size: 4.5em;
 	/*font-family: 'trump_town_proregular';*/
 	font-family: 微軟正黑體,文鼎黑體,華康黑體,Arial;
 	text-transform: uppercase;
 }
 .contact-head p{
-	color: #D3D0D0;
+	color: #5F5F5F;
 	line-height: 1.5em;
 	width: 40%;
 	margin: 0 auto;
 }
 .contact-head h4{
-	color: #FFFFFF;
+	color: #000000;
 	line-height: 1.5em;
 	width: 40%;
 	margin: 0 auto;
