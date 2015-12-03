@@ -54,7 +54,7 @@ body{
 .logo a{
 	font-family: 'trump_town_proregular';
 	color: #3A494C;
-	font-size: 2.5em;
+	font-size: 2.1em;
 	text-transform: uppercase;
 }
 .top-header {
@@ -73,7 +73,7 @@ body{
 }
 
 .top-nav ul li a{
-	font-size: 1.3em;
+	font-size: 1.2em;
 	color: #3A494C;
 	padding: 0.4em 1em;
 	display: block;
