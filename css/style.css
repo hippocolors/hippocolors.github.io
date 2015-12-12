@@ -44,17 +44,18 @@ body{
 	float: left;
 }
 .logo span{
-	height: 36px;
+	height: 35px;
 	width: 45px;
 	display: inline-block;
-	background: url(../images/logo-icon.png) no-repeat 0px 0px;
+	/*background: url(../images/logo-icon.png) no-repeat 0px 0px;*/
+	background: url(../images/hippocolors_logo4.png) no-repeat 0px 0px;
 	vertical-align: initial;
 	margin-right: 7px;
 }
 .logo a{
 	font-family: 'trump_town_proregular';
 	color: #3A494C;
-	font-size: 2.1em;
+	font-size: 2em;
 	text-transform: uppercase;
 }
 .top-header {
@@ -73,7 +74,7 @@ body{
 }
 
 .top-nav ul li a{
-	font-size: 1.2em;
+	font-size: 1.1em;
 	color: #3A494C;
 	padding: 0.4em 1em;
 	display: block;
@@ -1153,7 +1154,7 @@ body{
 		margin-left: 0em;
 	}
 	.top-nav ul li a {
-		font-size: 1em;
+		font-size: 1.1em;
 		padding: 0.4em 0.6em;
 	}
 	#filters li span {
@@ -1326,7 +1327,7 @@ body{
 		display:block;
 	}
 	.top-nav ul li a {
-		font-size:1em;
+		font-size:1.1em;
 		padding: 0.4em 0.1em;
 		border-radius:none;
 		-webkit-border-radius:none;
