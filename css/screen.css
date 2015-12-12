@@ -18,7 +18,7 @@
   position: relative;
   margin: 30px auto;
   overflow: hidden;
-  background: transparent url(../images/waves.png) repeat 0% 0;
+  /*background: transparent url(../images/waves.png) repeat 0% 0;*/
   -webkit-transition: background-position 1.4s ease-in-out;
   -webkit-transition-delay: 0.3s;
   -moz-transition: background-position 1.4s ease-in-out 0.3s;
