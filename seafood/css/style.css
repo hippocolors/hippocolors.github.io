@@ -786,10 +786,12 @@
 		-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #3cadd4;
+		/*background-color: #3cadd4;*/
+		background-color: #FDCD34;
 		border-radius: 30px;
 		border: 0;
-		color: #ffffff !important;
+		/*color: #ffffff !important;*/
+		color: #000000 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
