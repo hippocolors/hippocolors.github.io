@@ -12,13 +12,13 @@
 .boxes .three {
   background: #1e49a1; }
 .da-slider {
-  width: 100%;
+  width: 80%;
   min-width: 520px;
   /*height: 441px;*/
-  height: 571px;
+  height: 80%;
   position: relative;
   /*margin: 30px auto;*/
-  margin: 5px auto;
+  margin: 0px auto;
   overflow: hidden;
   /*background: transparent url(../images/waves.png) repeat 0% 0;*/
   -webkit-transition: background-position 1.4s ease-in-out;
