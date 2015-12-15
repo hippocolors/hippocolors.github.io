@@ -53,7 +53,8 @@ body{
 	margin-right: 7px;
 }
 .logo a{
-	font-family: 'trump_town_proregular';
+	/*font-family: 'trump_town_proregular';*/
+	font-family: 微軟正黑體,文鼎黑體,華康黑體,Arial;
 	color: #3A494C;
 	font-size: 2em;
 	text-transform: uppercase;

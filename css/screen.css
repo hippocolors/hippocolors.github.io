@@ -14,9 +14,11 @@
 .da-slider {
   width: 100%;
   min-width: 520px;
-  height: 441px;
+  /*height: 441px;*/
+  height: 571px;
   position: relative;
-  margin: 30px auto;
+  /*margin: 30px auto;*/
+  margin: 5px auto;
   overflow: hidden;
   /*background: transparent url(../images/waves.png) repeat 0% 0;*/
   -webkit-transition: background-position 1.4s ease-in-out;
