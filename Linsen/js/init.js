@@ -1,8 +1,4 @@
-/*
-	Horizons by TEMPLATED
-    templated.co @templatedco
-    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+
 (function($) {
 
 	skel.init({
@@ -30,14 +26,14 @@
 					side: 'left',
 					width: 275
 				},
-				titleBar: {
-					breakpoints: 'narrower',
-					height: 44,
-					html: '<span class="toggle" data-action="toggleLayer" data-args="navPanel"></span><span class="title" data-action="copyHTML" data-args="logo"></span>',
-					position: 'top-left',
-					side: 'top',
-					width: '100%'
-				}
+				// titleBar: {
+				// 	breakpoints: 'narrower',
+				// 	height: 44,
+				// 	html: '<span class="toggle" data-action="toggleLayer" data-args="navPanel"></span><span class="title" data-action="copyHTML" data-args="logo"></span>',
+				// 	position: 'top-left',
+				// 	side: 'top',
+				// 	width: '100%'
+				// }
 			}
 		}
 	});
