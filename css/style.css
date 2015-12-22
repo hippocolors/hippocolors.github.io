@@ -44,11 +44,12 @@ body{
 	float: left;
 }
 .logo span{
-	height: 35px;
+	height: 37px;
 	width: 45px;
 	display: inline-block;
 	/*background: url(../images/logo-icon.png) no-repeat 0px 0px;*/
-	background: url(../images/hippocolors_logo4.png) no-repeat 0px 0px;
+	/*background: url(../images/hippocolors_logo4.png) no-repeat 0px 0px;*/
+	background: url(../images/hippo_logo.png) no-repeat 10px 2px;
 	vertical-align: initial;
 	margin-right: 7px;
 }
@@ -466,7 +467,7 @@ body{
 	width:80px;
 	height:80px;
 	display:inline-block;
-	background:url(../images/people-pic.png) no-repeat;
+	/*background:url(../images/people-pic.png) no-repeat;*/
 }
 .team-member span{
 	background: #E9E9E9;
