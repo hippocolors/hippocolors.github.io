@@ -690,17 +690,17 @@
 		#banner span{
 			display: block;
 			letter-spacing: 1px;
+			color: #0080FF;
 			text-transform: uppercase;
 			font-size: 1.6em;
 			font-weight: 200;
 		}
 
 		#banner p {
-			/*display: block;*/
 			display: inline-block;
 			letter-spacing: 1px;
 			text-transform: uppercase;
-			/*background: #009100;*/
+			color: #0080FF;
 			font-size: 1.6em;
 			font-weight: 300;
 		}
