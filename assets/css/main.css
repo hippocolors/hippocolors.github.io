@@ -1,12 +1,6 @@
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600");
 @import url("font-awesome.min.css");
 
-/*
-	Parallelism by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -150,9 +144,9 @@
 			background: #1a1f2c;
 			background: rgba(18, 21, 29, 0.85);
 			width: 100%;
-			padding: 1em;
+			padding: 0.6em;
 			font-weight: 400;
-			line-height: 1em;
+			line-height: 0.6em;
 			z-index: 2;
 		}
 
@@ -299,14 +293,14 @@
 				}
 
 				#header h1 {
-					font-size: 2em;
+					font-size: 1.7em;
 					line-height: 1em;
 				}
 
 				#header p {
-					font-size: 1em;
-					line-height: 0.5em;
-					margin: 1em 0 0 0;
+					font-size: 0.9em;
+					line-height: 0.4em;
+					margin: 0.9em 0 0 0;
 				}
 
 		/* Footer */
