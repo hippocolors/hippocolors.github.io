@@ -16,6 +16,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		font-family: Century Gothic,Microsoft JhengHei,Heiti TC;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1131,7 +1132,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3e3e3e;
+		color: #EA8A95;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1598,7 +1599,7 @@
 /* Wrappers */
 
 	.wrapper {
-		background-image: url("images/bg.png");
+		background-image: url("images/bg1.png");
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 	}
 
@@ -1607,9 +1608,9 @@
 		}
 
 		.wrapper.style1 {
-			background-image: none;
-			background-color: #fff;
+			background-image: url("images/bg2.jpg");
 		}
+
 
 		.wrapper.style2 {
 			background-color: #fafafa;
@@ -1762,7 +1763,7 @@
 				}
 
 			footer {
-				margin: 3em 0 0 0;
+				margin: 3em;
 			}
 
 				footer > p {
@@ -2108,3 +2109,19 @@
 				}
 
 	}
+
+/* Three Column Content */
+#three-column
+{
+	overflow: hidden;
+	padding-top: 30px;
+}
+
+#three-column header
+{
+	letter-spacing: -1px;
+	text-transform: uppercase;
+	margin-bottom: 2em;
+	font-size: 1.5em;
+
+}
