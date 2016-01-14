@@ -26,9 +26,10 @@
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #777;
+		font-family: Georgia,SimHei,Heiti TC;
 	}
 
-	h1,h2,h3,h4,h5,h6
+	h1,h3,h5,h6
 	{
 		font-weight: 300;
 		color: #777;
@@ -37,6 +38,14 @@
 		h2
 		{
 			letter-spacing: -0.025em;
+			color: #1F6FA5;
+		}
+
+		h4
+		{
+			color: #fff;
+			font-size: 3em;
+
 		}
 	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -143,19 +152,19 @@
 		section > :last-child,
 		article > :last-child
 		{
-			margin-bottom: 0;
+			margin-bottom: 3em;
 		}
 
 		section:last-child,
 		article:last-child
 		{
-			margin-bottom: 0;
+			margin-bottom: 3em;
 		}
 
 		.row > section,
 		.row > article
 		{
-			margin-bottom: 0;
+			margin-bottom: -2em;
 		}
 
 	/* Images */
@@ -175,7 +184,7 @@
 			{
 				display: block;
 				width: 100%;
-				margin: 0 0 2em 0;
+				margin: 0 0 em 0;
 			}
 			
 			.image.full
@@ -936,6 +945,8 @@
 		position: relative;
 		text-align: center;
 		color: #774535;
+		margin-top: -5em;
+		margin-bottom: 0;
 	}
 	
 	#copyright .container
@@ -966,7 +977,9 @@
 	#featured h3
 	{
 		display: block;
-		font-weight: 300;
+		font-weight: bold;
+		margin-top: -1em;
+		margin-bottom: -1em;
 	}
 
 	#featured .pennant
