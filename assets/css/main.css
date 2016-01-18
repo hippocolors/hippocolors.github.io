@@ -10,6 +10,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		font-family: Century Gothic,Microsoft JhengHei,Heiti TC;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -83,7 +84,7 @@
 	}
 
 		a:hover {
-			color: #d64760;
+			color: #AD5FE1;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -188,7 +189,7 @@
 
 	#header {
 		position: relative;
-		background: #d64760 url("images/overlay.png");
+		background: #80ABEB url("images/overlay.png");
 		color: #fff;
 		cursor: default;
 	}
