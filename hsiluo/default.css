@@ -407,22 +407,18 @@
 	#featured-wrapper
 	{
 		/*overflow: hidden;*/
-		padding: 15em 0em;
-		background: #FFFFFF;
+		padding: 10em 0em;
 	}
 
 	#featured-wrapper2
 	{
 		/*overflow: hidden;*/
-		padding: 10em 0em;
-		margin-left: 20em;
-		background: #FFF;
+		padding: 10em 10em;
 	}
 	
 	#featured h2
 	{
 		text-align: center;
-		background: #FFF;
 	}
 
 	#featured .icon
