@@ -157,6 +157,7 @@
 	{
 		overflow: hidden;
 		margin-bottom: 4em;
+		margin-left: 10em;
 		text-align: center;
 	}
 	
@@ -413,7 +414,7 @@
 	#featured-wrapper2
 	{
 		/*overflow: hidden;*/
-		padding: 30em 0em;
+		padding: 10em 0em;
 		/*padding:auto;*/
 		background: #FFF;
 	}
