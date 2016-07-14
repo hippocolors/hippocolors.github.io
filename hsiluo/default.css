@@ -406,16 +406,15 @@
 	#featured-wrapper
 	{
 		/*overflow: hidden;*/
-		/*padding: 5em 0em;*/
-		padding:auto;
+		padding: 20em 0em;
 		background: #FFF;
 	}
 
 	#featured-wrapper2
 	{
 		/*overflow: hidden;*/
-		/*padding: 5em 20em;*/
-		padding:auto;
+		padding: 30em 0em;
+		/*padding:auto;*/
 		background: #FFF;
 	}
 	
