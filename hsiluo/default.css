@@ -409,6 +409,13 @@
 		padding: 5em 0em;
 		background: #FFF;
 	}
+
+	#featured-wrapper2
+	{
+		overflow: hidden;
+		padding: 5em 0em;
+		background: #FFF;
+	}
 	
 	#featured h2
 	{
