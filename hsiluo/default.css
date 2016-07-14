@@ -157,7 +157,7 @@
 	{
 		overflow: hidden;
 		margin-bottom: 4em;
-		margin-left: 10em;
+		margin-left: 5em;
 		text-align: center;
 	}
 	
@@ -407,13 +407,13 @@
 	#featured-wrapper
 	{
 		/*overflow: hidden;*/
-		padding: 10em 0em;
+		padding: 15em 0em;
 	}
 
 	#featured-wrapper2
 	{
 		/*overflow: hidden;*/
-		padding: 10em 10em;
+		padding: 10em 5em;
 	}
 	
 	#featured h2
