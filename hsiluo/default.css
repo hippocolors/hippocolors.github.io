@@ -405,14 +405,14 @@
 
 	#featured-wrapper
 	{
-		overflow: hidden;
-		padding: 0em 0em;
+		/*overflow: hidden;*/
+		padding: 5em 0em;
 		background: #FFF;
 	}
 
 	#featured-wrapper2
 	{
-		overflow: hidden;
+		/*overflow: hidden;*/
 		padding: 5em 0em;
 		background: #FFF;
 	}
