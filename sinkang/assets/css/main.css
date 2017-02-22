@@ -2720,6 +2720,21 @@
 		background-attachment: scroll;
 	}
 
+	.iframe-rwd {
+	    position: relative;
+	    padding-bottom: 65.25%;
+	    padding-top: 30px;
+	    height: 0;
+	    overflow: hidden;
+	}
+	.iframe-rwd iframe {
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	    height: 100%;
+	}
+
 	.wrapper {
 		padding: 6em 0 4em 0;
 	}
@@ -2735,7 +2750,7 @@
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+			background-image: url("images/overlay.png"), url("../../images/pic011.jpg");
 			background-position: center center;
 			background-size: cover;
 		}
@@ -3090,7 +3105,7 @@
 	#banner {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("../../images/pic011.jpg");
 		background-position: center top;
 		background-size: cover;
 		line-height: 1.75;
