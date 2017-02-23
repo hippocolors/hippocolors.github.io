@@ -2945,7 +2945,7 @@
 		left: 0;
 		position: absolute;
 		top: 0;
-		width: 100%;
+		width: 30%; /* 2017023 kk modifed 100% */
 		display: none;
 	}
 
@@ -2999,7 +2999,7 @@
 		background: #222;
 		color: #fff;
 		height: 100%;
-		max-width: 80%;
+		max-width: 40%; /* 2017023 kk modifed 80%*/
 		width: 20em;
 		padding: 0.5em 1.25em;
 		text-transform: uppercase;
